@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
