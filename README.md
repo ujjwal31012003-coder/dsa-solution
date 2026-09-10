@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
