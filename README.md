@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
