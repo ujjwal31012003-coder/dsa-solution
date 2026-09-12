@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0443-string-compression) |
 ## Hash Table
