@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0443-string-compression) |
 ## Hash Table
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
