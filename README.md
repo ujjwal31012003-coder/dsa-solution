@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0443-string-compression) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0443-string-compression) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
