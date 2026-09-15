@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -105,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
