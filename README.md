@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
