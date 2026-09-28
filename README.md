@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -61,20 +63,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
