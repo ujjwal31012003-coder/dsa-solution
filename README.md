@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0128-longest-consecutive-sequence) |
