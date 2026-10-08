@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0349-intersection-of-two-arrays) |
