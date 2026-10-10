@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0991-broken-calculator) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
