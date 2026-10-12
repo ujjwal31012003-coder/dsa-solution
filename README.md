@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
