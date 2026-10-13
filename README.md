@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -330,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
