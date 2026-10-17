@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
