@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0991-broken-calculator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3871-count-commas-in-range-ii) |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -359,4 +366,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
