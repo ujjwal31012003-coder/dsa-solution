@@ -8,6 +8,6 @@ class Solution {
             }
         }
 
-        return Math.max(ans, 0);
+        return Math.max(ans,0);
     }
 }
