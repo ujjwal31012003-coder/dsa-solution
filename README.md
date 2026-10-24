@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0991-broken-calculator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3871-count-commas-in-range-ii) |
