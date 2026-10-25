@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0835-image-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -171,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
