@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0049-group-anagrams) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
