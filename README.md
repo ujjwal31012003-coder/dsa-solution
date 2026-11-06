@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1833-maximum-ice-cream-bars](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0991-broken-calculator) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
