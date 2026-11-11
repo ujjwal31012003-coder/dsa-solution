@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0013-roman-to-integer) |
+| [0390-elimination-game](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0836-rectangle-overlap) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0010-regular-expression-matching) |
+| [0390-elimination-game](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0390-elimination-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
