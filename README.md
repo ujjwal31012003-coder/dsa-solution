@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0991-broken-calculator) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ujjwal31012003-coder/dsa-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Geometry
